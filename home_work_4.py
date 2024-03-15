@@ -30,7 +30,7 @@ def get_upcoming_birthdays(prepared_users, days=7):
 # Приклад використання:
 users = [
     {"name": "John Doe", "birthday": "1985.01.23"},
-    {"name": "Jane Smith", "birthday": "1990.01.27"}
+    {"name": "Jane Smith", "birthday": "1990.03.22"}
 ]
 
 prepared_users = [
